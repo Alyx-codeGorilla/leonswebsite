@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="nl" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leons Website</title>
+<style>
+    body {background-color: #FF8DDC;}
+    h1 {color:white;}
+    p {color: blue;}
+
+    img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+</style>
+</head>
+<body>
+<p> Welkom op <b>mijn</b> <br>Website</p>
+<img src="IMG_3281.jpg" alt="FotoLeon" style="width: 10%;"/>
+
+<h1> Oefening HTML </h1>
+<h1> "Leon's Personal Website" </h1>
+<marquee behavior="scroll" scrollamount="10" direction="left">Deze website is een probeersel</marquee>
+<marquee behavior="scroll" scrollamount="10" direction="rechts">Deze website is een probeersel</marquee>
+    <div>
+
+    </div>
+
+
+
+</body>
+</html>
